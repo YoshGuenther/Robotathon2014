@@ -2,14 +2,14 @@
 Team: "The Average joes"
 
 ##Members:
-Nancy Xu
+Nancy Xu  
 Joshua Guenther
-Matthew J-Union
-Sarah Muschinske
+Matthew J-Union  
+Sarah Muschinske  
 
 ##Mentors:
-Noor Haibara
-Abigail Johnson
+Noor Haibara  
+Abigail Johnson  
 
 #FAQ
 
