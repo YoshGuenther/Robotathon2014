@@ -13,9 +13,9 @@ Abigail Johnson
 
 #FAQ
 
-##What is the UT Robotics and Automation Society (UT RAS)?
+##What is the [UT Robotics and Automation Society](http://ras.ece.utexas.edu/) (UT RAS)?
 RAS is an organization for students passionate about robotics.
-They do various different projects to give students an interdisciplinary and hands-on understanding of all the different aspects of robotics. They have some social events and  networking events as well.
+They do various projects to give students an interdisciplinary and hands-on understanding of all the different aspects of robotics. They have some social events and  networking events as well.
 All majors are welcome to join, especially those who are interested in a future with robotics or are just curious about the field.
 
 ##What is Robotathon?
