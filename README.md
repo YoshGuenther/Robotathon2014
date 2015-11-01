@@ -3,7 +3,7 @@ Team: "The Average joes"
 
 ##Members:
 Nancy Xu  
-Joshua Guenther
+Joshua Guenther  
 Matthew J-Union  
 Sarah Muschinske  
 
